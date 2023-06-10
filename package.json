@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "heroicons": "^2.0.18",
     "next": "9.5.2",
     "next-images": "^1.4.1",
     "react": "16.13.1",
