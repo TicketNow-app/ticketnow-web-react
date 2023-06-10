@@ -8,4 +8,5 @@ export const Input = styled.input`
   color: ${({ theme }) => theme.colors.text};
   background-color: ${({ theme }) => theme.colors.secondary};
   border-radius: 12px;
+  border: none;
 `
